@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394850892884",
+    "project_id": "tutortree-3b03d",
+    "storage_bucket": "tutortree-3b03d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394850892884:android:d0c5c4126bba05aa0141c1",
+        "android_client_info": {
+          "package_name": "com.tutortree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXAeqMhbAyAPlB4fgKJEqgUSmue-dzERw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
